@@ -6,6 +6,6 @@
 [![license](https://nuggies.js.org/assets/img/license.ade17f5e.svg)](https://github.com/SuperSweatyTejas/YoutubeDownloader/LICENSE)
 
 
-YoutubeDownloader is a free to use site in which users are able to download youtube videos in different formats
+YoutubeDownloader is a free to use site in which users are able to download youtube videos
 
 **Satus**: Coming soon
