@@ -3,7 +3,7 @@
 # YoutubeDownloader
 
 [![CodeFactor](https://www.codefactor.io/repository/github/supersweatytejas/youtubedownloader/badge/main)](https://www.codefactor.io/repository/github/supersweatytejas/youtubedownloader/overview/main)
-[![license](https://nuggies.js.org/assets/img/license.ade17f5e.svg)](https://github.com/SuperSweatyTejas/YoutubeDownloader/LICENSE)
+[![license](https://nuggies.js.org/assets/img/license.ade17f5e.svg)](https://github.com/SuperSweatyTejas/YouTubeDownloader/blob/main/LICENSE)
 
 
 YoutubeDownloader is a free to use site in which users are able to download youtube videos
