@@ -2,7 +2,7 @@
 
 # YoutubeDownloader
 
-[![CodeFactor](https://www.codefactor.io/repository/github/SuperSweatyTejas/YoutubeDownloader/badge)](https://www.codefactor.io/repository/github/SuperSweatyTejas/YoutubeDownloader)
+[![CodeFactor](https://www.codefactor.io/repository/github/supersweatytejas/youtubedownloader/badge/main)](https://www.codefactor.io/repository/github/supersweatytejas/youtubedownloader/overview/main)
 [![license](https://nuggies.js.org/assets/img/license.ade17f5e.svg)](https://github.com/SuperSweatyTejas/YoutubeDownloader/LICENSE)
 
 
